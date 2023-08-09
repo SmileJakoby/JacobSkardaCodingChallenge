@@ -1,0 +1,11 @@
+Completed in 3 hours and 10 minutes.
+Spent 2 hours completing the project.
+Spent 1 hour adding a hard difficulty.
+Spent 10 minutes cleaning up code.
+
+I'm sure there's a less repetitive way to program this, but I was worried about the 
+time constraint and knew that I could finish it in 4 hours easily, even if it was repetitious.
+
+I didn't write any digital notes other than the coding comments.
+The 2 pictures included are some simple and quick charts figuring out every possibility that the
+hard bot would have to check for. 
